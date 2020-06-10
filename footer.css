@@ -1,0 +1,27 @@
+.form-group
+  {
+    position: relative;
+    top: 0px;
+    left:900px;
+  }
+
+.container
+  {
+    padding:10px;
+    margin:10px;
+    background-color:#0000FF;
+    border-inline-width: 300px;
+    border-left: 1px solid;
+    block-size: 100px;
+
+
+  }
+
+.span
+  {
+    margin: 10px;
+    position: relative;
+    top:10px;
+
+
+  }
